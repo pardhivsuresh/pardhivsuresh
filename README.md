@@ -1,6 +1,6 @@
 👋 Hi, I’m @pardhivsuresh
 
-👀 I’m interested in: Data Science, FinTech, and solving real-world business puzzles through data. Beyond the screen, I am an avid traveler and photographer with a keen eye for capturing patterns in both nature and datasets.
+👀 I’m interested in: Data Science, FinTech, and solving real-world business puzzles through data. Beyond the screen, I am an avid traveler, photographer, and budding content creator with a keen eye for capturing patterns in both nature and datasets.
 
 🌱 I’m currently learning: Advanced Python for Risk Modeling, SQL optimization, and Fraud Detection typologies. I am also focused on applying my classroom knowledge to hands-on, offline project experiences to bridge the gap between theory and execution.
 
