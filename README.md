@@ -6,4 +6,4 @@
 
 💞️ I’m looking to collaborate on: Open-source Data Analytics projects, Predictive Modeling for security, or any initiative that uses Data Viz (Power BI/Tableau) to simplify complex information. I am also open to travel-related tech projects or data expeditions!
 
-📫 How to reach me: Connect with me on[ LinkedIn]([url](https://www.linkedin.com/in/pardhivsureshuriti/)) or reach out via email at [lackpardhiv21@gmai.com](url).
+📫 How to reach me: Connect with me on Linkedin [https://www.linkedin.com/in/pardhivsureshuriti/](url)or reach out via email at [lackpardhiv21@gmai.com](url).
